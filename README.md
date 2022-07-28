@@ -6,3 +6,5 @@
 
 * <a href="https://mellcosta.github.io/cursos_html_rocketseat/" target="_blank">Conteúdo do Curso</a>
 * <a href="https://mellcosta.github.io/desafiosRocketseat/"  target="_blank">Desafios do Curso</a>
+
+## <a href="https://github.com/mellcosta" target="_blank">Visit my github profile</a>
