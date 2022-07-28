@@ -4,5 +4,5 @@
 
 ## Rocketseat
 
-* <a href="https://mellcosta.github.io/cursos_html_rocketseat/">Conteúdo do Curso</a>
-* <a href="https://mellcosta.github.io/desafiosRocketseat/">Desafios do Curso</a>
+* <a href="https://mellcosta.github.io/cursos_html_rocketseat/" target="_blank">Conteúdo do Curso</a>
+* <a href="https://mellcosta.github.io/desafiosRocketseat/"  target="_blank">Desafios do Curso</a>
