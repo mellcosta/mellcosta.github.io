@@ -8,19 +8,26 @@
   <img align="center" alt="Melissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Melissa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-##
+
+
 ## Rocketseat
+
+
 <br>
 <a href="https://mellcosta.github.io/cursos_html_rocketseat/" target="_blank">Conteúdo do Curso</a>
 <br>
 <a href="https://mellcosta.github.io/desafiosRocketseat/"  target="_blank">Desafios do Curso</a>
 
-##
+
+
+
 
 ## <a href="https://github.com/mellcosta" target="_blank">Visit my github profile</a>
 
-##
-  
+
+
+
+
 <div> 
   <a href="https://github.com/mellcosta" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/melissa-costa-71300a209?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2Df9dEU7Rl%2BWugKmLgwQfQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
