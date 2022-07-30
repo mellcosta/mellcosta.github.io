@@ -10,7 +10,7 @@
 
 
 
-## Rocketseat
+<h2> Rocketseat </h2>
 
 
 <br>
@@ -19,13 +19,7 @@
 <a href="https://mellcosta.github.io/desafiosRocketseat/"  target="_blank">Desafios do Curso</a>
 
 
-
-
-
-<h1> <a href="https://github.com/mellcosta" target="_blank">Visit my github profile</a> </h1>
-
-
-
+<h2> <a href="https://github.com/mellcosta" target="_blank">Visit my github profile</a> </h2>
 
 
 <div> 
