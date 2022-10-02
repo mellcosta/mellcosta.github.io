@@ -13,10 +13,14 @@
 <h2> Rocketseat </h2>
 
 
-<br>
-<a href="https://mellcosta.github.io/cursos_html_rocketseat/" target="_blank">Conteúdo do Curso</a>
-<br>
-<a href="https://mellcosta.github.io/desafiosRocketseat/"  target="_blank">Desafios do Curso</a>
+<h3><a href="https://mellcosta.github.io/cursos_html_rocketseat/" target="_blank">Conteúdo do Curso</a></h3>
+
+<h3><a href="https://mellcosta.github.io/desafiosRocketseat/"  target="_blank">Desafios do Curso</a></h3>
+  
+<h2> Projectos </h2>
+  
+<h3><a href="https://mellcosta.github.io/additionalKnoledge/"  target="_blank">Conhecimentos Adicionais</a></h3>
+
 
 
 <h2> <a href="https://github.com/mellcosta" target="_blank">Visit my github profile</a> </h2>
